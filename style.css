@@ -1,0 +1,27 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  font-family: "Open Sans";
+  overflow: hidden;
+}
+
+img{
+  display: block;
+  max-width: 40%;
+  float: right;
+  height: 100%;
+  border-top: 0;
+}
+
+h1, p{
+  text-align: center;
+}
+
+
+.about-me{
+  padding-top: 250px;
+}
+
+
